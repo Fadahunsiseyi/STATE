@@ -172,7 +172,7 @@ header ul.is-sticky li a.active{
 
 /* start hero section */
 #hero{
-    background-image: url(../STATE/img/pexels-photo-3958958.jpeg.jpg)  ;
+    background-image: url(./img/pexels-photo-3958958.jpeg.jpg)  ;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -181,7 +181,6 @@ header ul.is-sticky li a.active{
     height: 100%;
     width: 100%;
 }
-
 #hero .fade{
     position: absolute;
     width: 100%;
